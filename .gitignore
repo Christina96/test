@@ -1,2 +1,10 @@
 # Project exclude paths
 /node_modules/
+index.html
+main.js
+package.json
+package-lock.json
+/dist/mac/
+/dist/win-unpacked
+/dist/builder-debug.yml
+/dist/builder-effective-config.yaml
