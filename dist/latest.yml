@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.0.0
 files:
-  - url: untitled-Setup-1.0.2.exe
-    sha512: Z/BkNZ38aSHcHk3S6Gf+Sw5/++xgFzi68PELT6DRyneivU1qfN59LuTFWeCUeHc9tBT28uid2C51MgJgdA9V4A==
-    size: 58957011
-path: untitled-Setup-1.0.2.exe
-sha512: Z/BkNZ38aSHcHk3S6Gf+Sw5/++xgFzi68PELT6DRyneivU1qfN59LuTFWeCUeHc9tBT28uid2C51MgJgdA9V4A==
-releaseDate: '2021-06-03T11:49:28.045Z'
+  - url: untitled-Setup-1.0.0.exe
+    sha512: 3QmKf4LhlWwoK44znd9Z36t9RToaxzzHKngzuiS13N3A21ftKA05FBzrzQSABvpFPlivAIJQM44KIUhoSNUTDA==
+    size: 58957109
+path: untitled-Setup-1.0.0.exe
+sha512: 3QmKf4LhlWwoK44znd9Z36t9RToaxzzHKngzuiS13N3A21ftKA05FBzrzQSABvpFPlivAIJQM44KIUhoSNUTDA==
+releaseDate: '2021-06-03T12:37:27.453Z'

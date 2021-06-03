@@ -1,12 +1,12 @@
-version: 1.0.2
+version: 1.0.0
 files:
-  - url: untitled-1.0.2-mac.zip
-    sha512: uBmCAad/CNJ4Aq1ENSic67I8LNhExWheGvVhmpkpbz1TlLTY0eNOcxr81yUeH1jp0M8mpxnZdTTfs+oAhLHscg==
-    size: 78153321
-    blockMapSize: 83394
-  - url: untitled-1.0.2.dmg
-    sha512: O92m1R1pA7GAKEt8XbTVNWtsPJa5b0QKPMNVX6yhKR33hm0e+TbM61Z0auTSCn9/saQBBZzseZGmtiNsN79QbA==
-    size: 80523635
-path: untitled-1.0.2-mac.zip
-sha512: uBmCAad/CNJ4Aq1ENSic67I8LNhExWheGvVhmpkpbz1TlLTY0eNOcxr81yUeH1jp0M8mpxnZdTTfs+oAhLHscg==
-releaseDate: '2021-06-03T11:49:28.045Z'
+  - url: untitled-1.0.0-mac.zip
+    sha512: QxqKRUikLMdW9zJQs+zpH93uNUmYANyzav6KpvN3ZdORh9pXRJXRi+YiKe4DP4MT1QN0wyGKrvU0UnO6LMor1g==
+    size: 78153437
+    blockMapSize: 83508
+  - url: untitled-1.0.0.dmg
+    sha512: diGzJkQXETyNn1LkEVAmhufn4+MQ7czrTEuUeRJx59gtuP/BZJ5BZ3a6X2o7VMnB8Oq5h27uvOa5nSwafVJCRg==
+    size: 80523692
+path: untitled-1.0.0-mac.zip
+sha512: QxqKRUikLMdW9zJQs+zpH93uNUmYANyzav6KpvN3ZdORh9pXRJXRi+YiKe4DP4MT1QN0wyGKrvU0UnO6LMor1g==
+releaseDate: '2021-06-03T12:37:27.453Z'
