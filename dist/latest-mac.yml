@@ -1,12 +1,12 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: untitled-1.0.1-mac.zip
-    sha512: asyMTJD7S27PfUYR0IvvhvRJc2pb7y1SCiM5l2fbj9nUz9Qk8vmbmDIvcTDNd/ldJD+yyYEvR2CaEi9qmT4fwA==
-    size: 78153437
-    blockMapSize: 83564
-  - url: untitled-1.0.1.dmg
-    sha512: MuBC7QLOtE2KcdNATtp/hmy5HxOgTHw3I9Xw25ooXFHNw1gQMhdAirI15CXWUCMa6UHHhufvtDyaulH/9Uz76A==
-    size: 80523661
-path: untitled-1.0.1-mac.zip
-sha512: asyMTJD7S27PfUYR0IvvhvRJc2pb7y1SCiM5l2fbj9nUz9Qk8vmbmDIvcTDNd/ldJD+yyYEvR2CaEi9qmT4fwA==
-releaseDate: '2021-06-03T11:16:09.592Z'
+  - url: untitled-1.0.2-mac.zip
+    sha512: uBmCAad/CNJ4Aq1ENSic67I8LNhExWheGvVhmpkpbz1TlLTY0eNOcxr81yUeH1jp0M8mpxnZdTTfs+oAhLHscg==
+    size: 78153321
+    blockMapSize: 83394
+  - url: untitled-1.0.2.dmg
+    sha512: O92m1R1pA7GAKEt8XbTVNWtsPJa5b0QKPMNVX6yhKR33hm0e+TbM61Z0auTSCn9/saQBBZzseZGmtiNsN79QbA==
+    size: 80523635
+path: untitled-1.0.2-mac.zip
+sha512: uBmCAad/CNJ4Aq1ENSic67I8LNhExWheGvVhmpkpbz1TlLTY0eNOcxr81yUeH1jp0M8mpxnZdTTfs+oAhLHscg==
+releaseDate: '2021-06-03T11:49:28.045Z'
